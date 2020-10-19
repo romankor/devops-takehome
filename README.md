@@ -18,7 +18,7 @@ Deliverables
 1. A GitHub repo to the Flask app.
 2. A GitHub repo to the automation.
 3. Script/Tools that will:
-    - Launch the EC2 server using an AMI.
+    - Launch the EC2 server using an AMI. (or using docker , see bonus section)
     - Begin the configuration management / bootstrapping of the server using your automation tool of choice.
     - Deploy the app
 4. Access to the AWS Account you create.
